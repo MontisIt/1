@@ -1,1 +1,1 @@
-# Laboratory work No. 1. Working with raster and vector graphics
+# АСУб-22-1.Допиро Н.В.Лабораторная работа №1. Работа с растровой и векторной графикой
